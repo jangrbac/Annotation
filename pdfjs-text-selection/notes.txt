@@ -1,0 +1,12 @@
+top left:
+getSelectionParentElementTop <-- koordinata Y
+DOWNpageX <--- koordinata X
+
+UPpageX - DOWNpageX <-- širina (width)
+getSelectionParentElementTop + FontSize <-- višina (height)
+
+
+če je od levega roba DOWNpageX <= od 5 popravi na "getSelectionParentElementLeft"
+
+
+če je Y > od višine, popravit da je to več vrstic.... IF STAVEK!!!
