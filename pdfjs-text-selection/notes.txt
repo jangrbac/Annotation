@@ -18,7 +18,7 @@ Bugs:
  - scaling; of "myCanvas", highlights dont scale properly
 	Uncaught TypeError: Cannot read property 'style' of undefined
 		getSelectionParentElement	@	textlayerbuilder.js:81
-		getSelectionText			@	textlayerbuilder.js:48
-		onclick						@	index.html:10
+		getSelectionText		@	textlayerbuilder.js:48
+		onclick				@	index.html:10
 Features/Requirements:
  - open custom file
